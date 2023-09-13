@@ -107,3 +107,30 @@ body {
 .modulo>ul>li:hover {
     background-color: white;
 }
+
+.modulo.verde { border: 2px solid green;}
+.modulo.verde>h3 {background-color: green;}
+
+.modulo.vermelho { border: 2px solid red;}
+.modulo.vermelho>h3 {background-color: red;}
+
+.modulo.azul { border: 2px solid blue;}
+.modulo.azul>h3 {background-color: blue;}
+
+.modulo.roxo { border: 2px solid purple;}
+.modulo.roxo>h3 {background-color: purple;}
+
+.modulo.laranja { border: 2px solid orange;}
+.modulo.laranja>h3 {background-color: orange;}
+
+.modulo.rosa { border: 2px solid pink;}
+.modulo.rosa>h3 {background-color: pink;}
+
+.modulo.cinza { border: 2px solid gray;}
+.modulo.cinza>h3 {background-color: gray;}
+
+.modulo.vermelho-escuro { border: 2px solid darkred;}
+.modulo.vermelho-escuro>h3 {background-color: darkred;}
+
+.modulo.azul-escuro { border: 2px solid darkblue;}
+.modulo.azul-escuro>h3 {background-color: darkblue;}
